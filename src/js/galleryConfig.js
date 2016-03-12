@@ -10,6 +10,7 @@
   function ionGalleryConfig(){
     this.config = {
       action_label: 'Done',
+      share_label: 'Share',
       toggle: true,
       row_size: 3,
       fixed_row_size: true
